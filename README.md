@@ -96,7 +96,7 @@ A simple example would be :
 ## ${your_project_name}/${your_main_package_name}/application.py
 def class Application:
     def run(self):
-        print("Hello World! From module hello.")
+        print("Hello World! From module application.")
 
 
 # ${your_project_name}/${your_main_package_name}/main.py
