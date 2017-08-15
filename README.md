@@ -105,7 +105,7 @@ def main():
     <your_main_package_name>.application.Application().run()
 ```
 
-You can then add more modules, eithers as simple as a flat file like application.py or more complex with a full directory tree.
+You can then add more modules, either as simple as a flat file like application.py or more complex with a full directory tree.
 
 ## Distributing your project
 
